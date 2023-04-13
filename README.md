@@ -1,1 +1,1 @@
-Vidir Solutions Barcode Scanner Configuration Utility, a Python script to check for CR configuration of barcode scanners.
+Barcode Scanner Configuration Utility, a Python script to check for CR configuration of barcode scanners.
